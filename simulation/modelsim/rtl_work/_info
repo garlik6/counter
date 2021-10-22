@@ -1,0 +1,188 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/grigo/quartus/conecter/simulation/modelsim
+Ecounter8
+Z1 w1634869132
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z6 8C:/Users/grigo/quartus/conecter/lab_1_counter8.vhdl
+Z7 FC:/Users/grigo/quartus/conecter/lab_1_counter8.vhdl
+l0
+L7 1
+VX@2m`U78cDgfa6zk;0[ee0
+!s100 M<ZY7`EmZP_hj2ldN33Oa0
+Z8 OV;C;2020.1;71
+31
+Z9 !s110 1634870356
+!i10b 1
+Z10 !s108 1634870356.000000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/grigo/quartus/conecter/lab_1_counter8.vhdl|
+Z12 !s107 C:/Users/grigo/quartus/conecter/lab_1_counter8.vhdl|
+!i113 1
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Acounter_behavior
+R2
+R3
+R4
+R5
+DEx4 work 8 counter8 0 22 X@2m`U78cDgfa6zk;0[ee0
+!i122 2
+l22
+L18 49
+V:4l7C@ki0590jzUh8_nUG1
+!s100 K1a[BkVWheg_FRR]e]BB60
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emixing
+Z15 w1633188086
+R2
+R3
+R4
+R5
+!i122 0
+R0
+Z16 8C:/Users/grigo/quartus/conecter/mixing.vhdl
+Z17 FC:/Users/grigo/quartus/conecter/mixing.vhdl
+l0
+L8 1
+VFJz`l035k8T^@h47Ka:Iz0
+!s100 9;59JhOWV9YeD9Z0HYSIC0
+R8
+31
+Z18 !s110 1634870355
+!i10b 1
+Z19 !s108 1634870355.000000
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/grigo/quartus/conecter/mixing.vhdl|
+Z21 !s107 C:/Users/grigo/quartus/conecter/mixing.vhdl|
+!i113 1
+R13
+R14
+Amix_behavior
+R2
+R3
+R4
+R5
+Z22 DEx4 work 6 mixing 0 22 FJz`l035k8T^@h47Ka:Iz0
+!i122 0
+l48
+L20 53
+VFm030Uj@X^]lMUX;fWUi`1
+!s100 l@gH4GiLTj5?TNM?Oe;1Q3
+R8
+31
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Eregist
+Z23 w1634870065
+R4
+R5
+!i122 1
+R0
+Z24 8C:/Users/grigo/quartus/conecter/lab_1_regist.vhdl
+Z25 FC:/Users/grigo/quartus/conecter/lab_1_regist.vhdl
+l0
+L7 1
+VgR8bfJ[0AiG5gZ>H>X6MX2
+!s100 a97R<RSLH<ac>AzBm5eg[3
+R8
+31
+R18
+!i10b 1
+R19
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/grigo/quartus/conecter/lab_1_regist.vhdl|
+Z27 !s107 C:/Users/grigo/quartus/conecter/lab_1_regist.vhdl|
+!i113 1
+R13
+R14
+Ar_behavior
+R4
+R5
+DEx4 work 6 regist 0 22 gR8bfJ[0AiG5gZ>H>X6MX2
+!i122 1
+l21
+L17 20
+V3SK`=99_;Af`Yg;78IfP42
+!s100 m<5jl>MimUOeG:Bj>IETz2
+R8
+31
+R18
+!i10b 1
+R19
+R26
+R27
+!i113 1
+R13
+R14
+Etester
+Z28 w1634870054
+R2
+R3
+R4
+R5
+!i122 3
+R0
+Z29 8C:/Users/grigo/quartus/conecter/tester.vhdl
+Z30 FC:/Users/grigo/quartus/conecter/tester.vhdl
+l0
+L7 1
+V^oc36kN0bncTiS@7IC@;k0
+!s100 kGMI1?6SIV^;@2QLE4cJm2
+R8
+31
+R9
+!i10b 1
+R10
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/grigo/quartus/conecter/tester.vhdl|
+!s107 C:/Users/grigo/quartus/conecter/tester.vhdl|
+!i113 1
+R13
+R14
+Atestbench
+R22
+R2
+R3
+R4
+R5
+DEx4 work 6 tester 0 22 ^oc36kN0bncTiS@7IC@;k0
+!i122 3
+l31
+L10 60
+VoT;F_g6a7zT4dEKNicoU]3
+!s100 maP3VVLR=GcUP]WIO@h951
+R8
+31
+R9
+!i10b 1
+R10
+R31
+Z32 !s107 C:/Users/grigo/quartus/conecter/tester.vhdl|
+!i113 1
+R13
+R14
